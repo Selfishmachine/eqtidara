@@ -1,2 +1,2 @@
-# eqtidara
-a7bk ya hussain
+back-end for real-estate app with django
+
